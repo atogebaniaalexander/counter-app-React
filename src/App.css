@@ -1,0 +1,24 @@
+
+.App {
+  text-align: center;
+  background-color:whitesmoke;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.block {
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+  background-origin:padding-box;
+  background-size: contain;
+  border-style:groove;
+  border-width: 2px;
+  border-color:crimson;
+  background-color: white;
+  padding: 10px;
+  padding-left: 1em;
+  width: 300px;
+  
+ 
+}

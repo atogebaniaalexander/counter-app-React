@@ -1,0 +1,34 @@
+.increase_button {
+    background-color:forestgreen;
+    color: aliceblue;
+    border: 0;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 10px 20px;
+    
+    font-size: 16px;
+    cursor: pointer;
+
+}
+.decrease_button {
+    background-color:crimson;
+    color: aliceblue;
+    border: 0;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+.reset_button {
+    background-color: black;
+    color: aliceblue;
+    border: 0;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+
+}
